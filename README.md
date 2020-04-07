@@ -7,6 +7,11 @@ January 2017
 LSTM takes camera video frames to predict the next frame. 
 (LSTM Filter)
 
-![Perplexity](https://github.com/yumakemore/Cybersecurity-Syscall_Mimicry_Using_LSTM/blob/master/mimicry_perplexity.png)
+![Example1](https://github.com/yumakemore/NeuralCam/blob/master/cam-feed1.png)
+![Convergence1](https://github.com/yumakemore/NeuralCam/blob/master/convergence1.png)
 
+![Example2](https://github.com/yumakemore/NeuralCam/blob/master/cam-feed2.png)
+![Convergence2](https://github.com/yumakemore/NeuralCam/blob/master/convergence2.png)
 
+![Example3](https://github.com/yumakemore/NeuralCam/blob/master/cam-feed3.png)
+![Convergence3](https://github.com/yumakemore/NeuralCam/blob/master/convergence3.png)
