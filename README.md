@@ -5,7 +5,7 @@ Byunggu Yu, Ph.D.
 January 2017
 
 LSTM takes camera video frames to predict the next frame. 
-(LSTM Filter) See the memory in the video!
+(LSTM Filter) See the spatio-temporal memory impressed in the last snapshot!
 
 ![Example1](https://github.com/yumakemore/NeuralCam/blob/master/cam-feed1.png)
 ![Convergence1](https://github.com/yumakemore/NeuralCam/blob/master/convergence1.png)
